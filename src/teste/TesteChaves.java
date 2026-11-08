@@ -1,5 +1,6 @@
-package common;
+package teste;
 
+import common.*;
 import java.nio.charset.StandardCharsets;
 import java.security.KeyPair;
 import java.security.PrivateKey;
